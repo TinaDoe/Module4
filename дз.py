@@ -11,4 +11,4 @@ def ispalindrome(s):
     else:
         return False
 
-print(ispalindrome('ахуеть'))
+print(ispalindrome('лепсспел'))
